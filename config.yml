@@ -1,0 +1,165 @@
+BaseURL: "/"
+theme: "terminalcv"
+languageCode: "en-us"
+title: "Izzy Mukhitdinov"
+
+params:
+  description: "online cv of Izzy Mukhitdinov"
+  prompt: "izzymukhitdinov@terminalcv"
+  # promptColor: grey
+  # promptSimbols: ":~$"
+  # promptSimbolsColor: grey
+  # startxLocation: https://example.com
+  # hideSocialName: true
+  # exitLocation: 'about:blank'
+  # hidesource: true
+  greeting: | 
+    Hey! It is Izzy here. I'm glad you are interested in my CV :)
+
+
+    Type 'help' for a list of available commands
+
+
+  whois: 
+      name: "Izzy Mukhitdinov"
+      profession: "Software Engineer"
+      location: "Tashkent, Uzb"
+      email: "isroillisper@gmail.com"
+      homelink: "https://izzymukhitdinov.netlify.app"
+      description: |
+              A very nice human being :)
+
+  social:
+    - name: "github"
+      url: "          https://github.com/IsroilMukhitdinov"
+    - name: "instagram"
+      url: "       https://instagram.com/izzy.mukhitdinov"
+    - name: "twitter"
+      url: "         https://twitter.com/Izzy9808"
+    - name: "telegram"
+      url: "        https://t.me/Izzy9808"
+
+  work:
+    - jobTitle: Junior Java Back-End Developer
+      color: red
+      company: "MayaSoft LLC" 
+      location: Tashkent
+      date: October 2020 - December 2020
+      description: 
+
+    - jobTitle: Freelancer
+      color: purple
+      company: "-"
+      location: Japan
+      date: May 2022  - September 2022
+      description: Web Scraping/ Systems Programming / Back-End Development / Front-End Development
+
+
+  education:
+   - courseName: Inha University in Tashkent
+     color: red
+     date: September 2019 - Present
+     description: Bachelors Degree in Computer Science and Software Engineering Faculty
+
+
+  skills:
+    - name: Linux
+      color: green
+      percentage: 70
+      Description: I am quite well-versed and comfortable working in a Unix-like environments
+
+    - name: Computer Networks
+      color: purple
+      percentage: 40
+      description: I have grasped fundamental knowledge of how the whole system of the Internet works
+
+    - name: Go
+      color: red
+      percentage: 90
+      description: I feel home as soon as I start typing in Go programming language. Truly a favorite language of mine.
+
+    - name: Docker
+      color: blue
+      percentage: 60
+      description: I know quite a bit of Docker and how to use it to build and deploy software.
+
+    - name: Relational Database Management System
+      color: yellow
+      percentage: 70
+      description: Primarily PostgreSQL & MySQL.
+
+    - name: gRPC / WebSockets / React / Microservices
+      color: cyan
+      percentage: 70
+      description: Primarily PostgreSQL & MySQL.
+
+    - name: Design Patterns / Regular Expressions / Web Scraping / Data Structures
+      color: white
+      percentage: 85
+      description: 
+
+  softskills:
+    - name: Sociable
+      color: orange
+      percentage: 100
+      description: I am by nature extremely sociable person. I was born like that.
+
+    - name:  Deterministic
+      color: green
+      percentage: 110
+      description: If I am determined to do it, I do it. There is no plan B
+
+  languages:
+    - name: English
+      color: Blue
+      percentage: 90
+      description: Fluent speaker. Almost brilliant writer :)
+
+    - name: Uzbek
+      color: white
+      percentage: 100
+      description: Natively
+
+    - name: Russian
+      percentage: 10
+      description: I understand only basics of Russian language. 
+
+
+  # projects:
+  #   - title: Project Red
+  #     color: red
+  #     date: since 2019
+  #     link: https://example.com
+  #     description: Describing red stuff
+
+  #   - title: Project Blue
+  #     color: blue
+  #     date: since 2016
+  #     link: https://example.com/blue
+  #     #description: nothing to describe
+
+  #   - title: Project Default
+  #     date: Since 2017
+  #     link: https://example.com/default
+  #     #description: not there either
+
+  # misc: 
+  #   #commandName: newcommand
+  #   title: "This Section can have a different command name"
+  #   titleColor: teal
+  #   content: |
+  #         Here the title and the content can have different colors
+  #         The content can be multi
+          
+  #         line
+
+  #         And spaces       will be respected as well
+  #         This section will have the default command: misc
+  #         but you can name it something else with the property
+  #         commandName: <String>
+  #         Give it a shot and try and uncomment the line 
+  #         commandName: newcommand
+  #         now instead of misc you can execute the newcommand for this section
+  #         Auto completion will know it too! :D 
+
+  #   contentColor: orange
