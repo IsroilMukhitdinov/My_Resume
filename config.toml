@@ -1,0 +1,131 @@
+BaseURL = "/"
+theme = "terminalcv"
+languageCode = "en-us"
+title = "Izzy Mukhitdinov"
+
+[params]
+description = "online cv of Izzy Mukhitdinov"
+prompt = "izzymukhitdinov@terminalcv"
+greeting = """
+Hey! It is Izzy here. I'm glad you are interested in my CV :)
+
+
+Type 'help' for a list of available commands
+"""
+
+  [params.whois]
+  name = "Izzy Mukhitdinov"
+  profession = "Software Engineer"
+  location = "Tashkent, Uzb"
+  email = "isroillisper@gmail.com"
+  homelink = "https://izzymukhitdinov.netlify.app"
+  description = """
+A very nice human being :)
+"""
+
+  [[params.social]]
+  name = "github"
+  url = "          https://github.com/IsroilMukhitdinov"
+
+  [[params.social]]
+  name = "instagram"
+  url = "       https://instagram.com/izzy.mukhitdinov"
+
+  [[params.social]]
+  name = "twitter"
+  url = "         https://twitter.com/Izzy9808"
+
+  [[params.social]]
+  name = "telegram"
+  url = "        https://t.me/Izzy9808"
+
+  [[params.work]]
+  jobTitle = "Junior Java Back-End Developer"
+  color = "red"
+  company = "MayaSoft LLC"
+  location = "Tashkent"
+  date = "October 2020 - December 2020"
+
+  [[params.work]]
+  jobTitle = "Freelancer"
+  color = "purple"
+  company = "-"
+  location = "Japan"
+  date = "May 2022  - September 2022"
+  description = "Web Scraping/ Systems Programming / Back-End Development / Front-End Development"
+
+  [[params.education]]
+  courseName = "Inha University in Tashkent"
+  color = "red"
+  date = "September 2019 - Present"
+  description = "Bachelors Degree in Computer Science and Software Engineering Faculty"
+
+  [[params.skills]]
+  name = "Linux"
+  color = "green"
+  percentage = 70
+  Description = "I am quite well-versed and comfortable working in a Unix-like environments"
+
+  [[params.skills]]
+  name = "Computer Networks"
+  color = "purple"
+  percentage = 40
+  description = "I have grasped fundamental knowledge of how the whole system of the Internet works"
+
+  [[params.skills]]
+  name = "Go"
+  color = "red"
+  percentage = 90
+  description = "I feel home as soon as I start typing in Go programming language. Truly a favorite language of mine."
+
+  [[params.skills]]
+  name = "Docker"
+  color = "blue"
+  percentage = 60
+  description = "I know quite a bit of Docker and how to use it to build and deploy software."
+
+  [[params.skills]]
+  name = "Relational Database Management System"
+  color = "yellow"
+  percentage = 70
+  description = "Primarily PostgreSQL & MySQL."
+
+  [[params.skills]]
+  name = "gRPC / WebSockets / React / Microservices"
+  color = "cyan"
+  percentage = 70
+  description = "Primarily PostgreSQL & MySQL."
+
+  [[params.skills]]
+  name = "Design Patterns / Regular Expressions / Web Scraping / Data Structures"
+  color = "white"
+  percentage = 85
+
+  [[params.softskills]]
+  name = "Sociable"
+  color = "orange"
+  percentage = 100
+  description = "I am by nature extremely sociable person. I was born like that."
+
+  [[params.softskills]]
+  name = "Deterministic"
+  color = "green"
+  percentage = 110
+  description = "If I am determined to do it, I do it. There is no plan B"
+
+  [[params.languages]]
+  name = "English"
+  color = "Blue"
+  percentage = 90
+  description = "Fluent speaker. Almost brilliant writer :)"
+
+  [[params.languages]]
+  name = "Uzbek"
+  color = "white"
+  percentage = 100
+  description = "Natively"
+
+  [[params.languages]]
+  name = "Russian"
+  percentage = 10
+  description = "I understand only basics of Russian language."
