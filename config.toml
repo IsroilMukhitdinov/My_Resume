@@ -94,7 +94,7 @@ A very nice human being :)
   name = "gRPC / WebSockets / React / Microservices"
   color = "cyan"
   percentage = 70
-  description = "Primarily PostgreSQL & MySQL."
+  description = ""
 
   [[params.skills]]
   name = "Design Patterns / Regular Expressions / Web Scraping / Data Structures"
