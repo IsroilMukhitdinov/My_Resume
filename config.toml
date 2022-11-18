@@ -28,14 +28,6 @@ A very nice human being :)
   url = "          https://github.com/IsroilMukhitdinov"
 
   [[params.social]]
-  name = "instagram"
-  url = "       https://instagram.com/izzy.mukhitdinov"
-
-  [[params.social]]
-  name = "twitter"
-  url = "         https://twitter.com/Izzy9808"
-
-  [[params.social]]
   name = "telegram"
   url = "        https://t.me/Izzy9808"
 
@@ -44,14 +36,15 @@ A very nice human being :)
   color = "red"
   company = "MayaSoft LLC"
   location = "Tashkent"
-  date = "October 2020 - December 2020"
+  date = "October 2020 - June 2021"
+  description = "API Development/ Back-End Development"
 
   [[params.work]]
-  jobTitle = "Freelancer"
+  jobTitle = "Junior+ Golang Software Engineer"
   color = "purple"
-  company = "-"
+  company = "Treasure Data"
   location = "Japan"
-  date = "May 2022  - September 2022"
+  date = "August 2021  - July 2022"
   description = "Web Scraping/ Systems Programming / Back-End Development / Front-End Development"
 
   [[params.education]]
@@ -63,14 +56,14 @@ A very nice human being :)
   [[params.skills]]
   name = "Linux"
   color = "green"
-  percentage = 70
+  percentage = 80
   Description = "I am quite well-versed and comfortable working in a Unix-like environments"
 
   [[params.skills]]
   name = "Computer Networks"
   color = "purple"
-  percentage = 40
-  description = "I have grasped fundamental knowledge of how the whole system of the Internet works"
+  percentage = 70
+  description = "I have grasped the core knowledge of how the whole system of the Internet works"
 
   [[params.skills]]
   name = "Go"
@@ -81,25 +74,25 @@ A very nice human being :)
   [[params.skills]]
   name = "Docker"
   color = "blue"
-  percentage = 60
+  percentage = 80
   description = "I know quite a bit of Docker and how to use it to build and deploy software."
 
   [[params.skills]]
   name = "Relational Database Management System"
   color = "yellow"
-  percentage = 70
-  description = "Primarily PostgreSQL & MySQL."
+  percentage = 80
+  description = "Primarily PostgreSQL & MySQL & Redis"
 
   [[params.skills]]
-  name = "gRPC / WebSockets / React / Microservices"
+  name = "gRPC / REST / GraphQL / Microservices / WebSockets"
   color = "cyan"
-  percentage = 70
+  percentage = 80
   description = ""
 
   [[params.skills]]
-  name = "Design Patterns / Regular Expressions / Web Scraping / Data Structures"
+  name = "Design Principles & Patterns / Regular Expressions / Web Scraping / Data Structures / Algorithms"
   color = "white"
-  percentage = 85
+  percentage = 95
 
   [[params.softskills]]
   name = "Sociable"
@@ -127,5 +120,5 @@ A very nice human being :)
 
   [[params.languages]]
   name = "Russian"
-  percentage = 10
+  percentage = 30
   description = "I understand only basics of Russian language."
