@@ -29,7 +29,10 @@ A very nice human being :)
 
   [[params.social]]
   name = "telegram"
-  url = "        https://t.me/Izzy9808"
+  url = "        https://t.me/isroilmuhitdinov"
+  [[params.social]]
+  name = "instagram"
+  url = "        https://instagram.com/izzy.mukhitdinov"
 
   [[params.work]]
   jobTitle = "Junior Java Back-End Developer"
@@ -46,6 +49,14 @@ A very nice human being :)
   location = "Japan"
   date = "August 2021  - July 2022"
   description = "Web Scraping/ Systems Programming / Back-End Development / Front-End Development"
+
+  [[params.work]]
+  jobTitle = "Back-End Software Engineer"
+  color = "white"
+  company = "Novalab Tech"
+  location = "Tashkent, Uzbekistan"
+  date = "November 2022  - "
+  description = "Systems Programming / Back-End Development"
 
   [[params.education]]
   courseName = "Inha University in Tashkent"
@@ -78,13 +89,13 @@ A very nice human being :)
   description = "I know quite a bit of Docker and how to use it to build and deploy software."
 
   [[params.skills]]
-  name = "Relational Database Management System"
+  name = "Database Systems"
   color = "yellow"
   percentage = 80
-  description = "Primarily PostgreSQL & MySQL & Redis"
+  description = "Primarily PostgreSQL & MySQL & Redis. Plus MongoDB"
 
   [[params.skills]]
-  name = "gRPC / REST / GraphQL / Microservices / WebSockets"
+  name = "gRPC / REST / GraphQL / Microservices / WebSockets / Apache Kafka / RabbitMQ / AWS"
   color = "cyan"
   percentage = 80
   description = ""
